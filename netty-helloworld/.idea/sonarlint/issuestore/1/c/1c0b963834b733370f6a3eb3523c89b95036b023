@@ -1,0 +1,6 @@
+
+Esquid:S1444"+Make this "public static value" field final(Öµ×şÿÿÿÿ
+Tsquid:S1118":Add a private constructor to hide the implicit public one.(»°­Áüÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"QMake value a static final constant or non-public and provide accessors if needed.(Öµ×şÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñé„

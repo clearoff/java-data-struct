@@ -1,0 +1,24 @@
+
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(®è´ýÿÿÿÿ
+Jsquid:S1481"0Remove this unused "allocation3" local variable.(Ø¾¤½üÿÿÿÿ
+Csquid:S1659")Declare "allocation3" on a separate line.(Ø¾¤½üÿÿÿÿ
+Jsquid:S1481"0Remove this unused "allocation2" local variable.(Ø¾¤½üÿÿÿÿ
+Ysquid:S1854"?Remove this useless assignment to local variable "allocation3".(þ…áúÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ø£‘ÿÿÿÿÿ
+Tsquid:S1854"?Remove this useless assignment to local variable "allocation1".(ŒÉ±Â
+usquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(û‹üÿÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(š°»‰
+Csquid:S1659")Declare "allocation4" on a separate line.(Ø¾¤½üÿÿÿÿ
+esquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒÕÐ¨üÿÿÿÿ
+;squid:S1172"&Remove these unused method parameters.(”Ã±´
+Jsquid:S1481"0Remove this unused "allocation1" local variable.(Ø¾¤½üÿÿÿÿ
+Csquid:S1659")Declare "allocation2" on a separate line.(Ø¾¤½üÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(üÖ¬Ôùÿÿÿÿ
+@squid:S1172"&Remove these unused method parameters.(¦‘†ùÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ
+Tsquid:S1854"?Remove this useless assignment to local variable "allocation4".(úŠ«ï
+Jsquid:S1481"0Remove this unused "allocation4" local variable.(Ø¾¤½üÿÿÿÿ
+Ysquid:S1854"?Remove this useless assignment to local variable "allocation2".(Û—¯¶üÿÿÿÿ

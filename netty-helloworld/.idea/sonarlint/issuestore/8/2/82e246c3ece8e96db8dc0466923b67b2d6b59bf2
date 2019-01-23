@@ -1,0 +1,7 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8‰×—„ƒ-
+Ssquid:S1197"8Move the array designator from the variable to the type.(ôï»\8Òğ­ƒƒ-
+bsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(Ä¨¥8ÂıŸ‚ƒ-
+>squid:S1659""Declare "end1" on a separate line.(Ô²³ç8İŒ„ƒ-
+>squid:S1659""Declare "end2" on a separate line.(¸šÀ8İŒ„ƒ-

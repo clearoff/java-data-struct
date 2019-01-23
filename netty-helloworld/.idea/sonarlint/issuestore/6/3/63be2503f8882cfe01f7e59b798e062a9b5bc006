@@ -1,0 +1,6 @@
+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(Á¦ÚÚÿÿÿÿÿ8·şÏş,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8·şÏş,
+Rsquid:UnusedPrivateMethod"(Remove this unused private "bar" method.(¥¶ñ8·şÏş,
+?squid:S1148"#Use a logger to log this exception.(Ç’Çê8·şÏş,
